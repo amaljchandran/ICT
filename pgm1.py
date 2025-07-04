@@ -1,3 +1,4 @@
 a= 5
 b=6
-print(a)
+add= a+b
+print(f"the sum of{a} and{b} is {add}")
